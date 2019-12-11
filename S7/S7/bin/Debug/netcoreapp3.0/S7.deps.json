@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "S7/1.0.0": {
+        "dependencies": {
+          "SHARP7": "1.0.0"
+        },
+        "runtime": {
+          "S7.dll": {}
+        }
+      },
+      "SHARP7/1.0.0": {
+        "runtime": {
+          "SHARP7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SHARP7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

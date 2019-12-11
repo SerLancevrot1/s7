@@ -1,0 +1,14 @@
+C:\Users\Max\source\repos\S7\S7\bin\Debug\netcoreapp3.0\S7.exe
+C:\Users\Max\source\repos\S7\S7\bin\Debug\netcoreapp3.0\S7.deps.json
+C:\Users\Max\source\repos\S7\S7\bin\Debug\netcoreapp3.0\S7.runtimeconfig.json
+C:\Users\Max\source\repos\S7\S7\bin\Debug\netcoreapp3.0\S7.runtimeconfig.dev.json
+C:\Users\Max\source\repos\S7\S7\bin\Debug\netcoreapp3.0\S7.dll
+C:\Users\Max\source\repos\S7\S7\bin\Debug\netcoreapp3.0\S7.pdb
+C:\Users\Max\source\repos\S7\S7\bin\Debug\netcoreapp3.0\SHARP7.dll
+C:\Users\Max\source\repos\S7\S7\bin\Debug\netcoreapp3.0\SHARP7.pdb
+C:\Users\Max\source\repos\S7\S7\obj\Debug\netcoreapp3.0\S7.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\S7\S7\obj\Debug\netcoreapp3.0\S7.AssemblyInfoInputs.cache
+C:\Users\Max\source\repos\S7\S7\obj\Debug\netcoreapp3.0\S7.AssemblyInfo.cs
+C:\Users\Max\source\repos\S7\S7\obj\Debug\netcoreapp3.0\S7.csproj.CopyComplete
+C:\Users\Max\source\repos\S7\S7\obj\Debug\netcoreapp3.0\S7.dll
+C:\Users\Max\source\repos\S7\S7\obj\Debug\netcoreapp3.0\S7.pdb

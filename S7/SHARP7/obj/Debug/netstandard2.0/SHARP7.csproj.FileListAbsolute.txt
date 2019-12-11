@@ -1,0 +1,8 @@
+C:\Users\Max\source\repos\S7\SHARP7\bin\Debug\netstandard2.0\SHARP7.deps.json
+C:\Users\Max\source\repos\S7\SHARP7\bin\Debug\netstandard2.0\SHARP7.dll
+C:\Users\Max\source\repos\S7\SHARP7\bin\Debug\netstandard2.0\SHARP7.pdb
+C:\Users\Max\source\repos\S7\SHARP7\obj\Debug\netstandard2.0\SHARP7.csprojAssemblyReference.cache
+C:\Users\Max\source\repos\S7\SHARP7\obj\Debug\netstandard2.0\SHARP7.AssemblyInfoInputs.cache
+C:\Users\Max\source\repos\S7\SHARP7\obj\Debug\netstandard2.0\SHARP7.AssemblyInfo.cs
+C:\Users\Max\source\repos\S7\SHARP7\obj\Debug\netstandard2.0\SHARP7.dll
+C:\Users\Max\source\repos\S7\SHARP7\obj\Debug\netstandard2.0\SHARP7.pdb
